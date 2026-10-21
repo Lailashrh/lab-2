@@ -4,9 +4,8 @@
  */
 
 /**
- *author:laila shahirah
- * matris number:S85510
- * 
+ *
+ * @author MP1
  */
 public class labmodule2 {
 
@@ -14,9 +13,9 @@ public class labmodule2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Name: Nor Laila Shahirah");
-        System.out.println("Student ID: S85510 ");
-        System.out.println("Programme:Bachelor of Computer Science");
+        System.out.print("Name:Nor Laila Shahirah")
+        System.out.print("Student ID:S85510")
+        System.out.print("Programme:Bachelor of Computer Science")
     }
     
 }
